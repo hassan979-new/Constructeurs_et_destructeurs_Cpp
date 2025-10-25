@@ -67,9 +67,9 @@ Méthodes :
 ## 🖥️ Example Execution
 
 ### Gestion d'un Compte Bancaire :
-
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/4f0a45a1-8f9f-40a4-ab4e-fb50ba400b04" />
 ### Gestion d’un Buffer Dynamique : 
-
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/fea7914d-4b2c-4e34-8bad-ea394cd8a9ce" />
 ## 💡 Concepts Practiced
 
 - L’utilisation des constructeurs pour initialiser les objets
@@ -85,4 +85,4 @@ Méthodes :
 - 👤 Agouram Hassan
 - 🏫 Fondamentaux et Concepts Avancés de la Programmation Java – TP1
 - 🎓 Instructor	Mr.LACHGAR
-- 📅 23	October 2025
+- 📅 25	October 2025
