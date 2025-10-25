@@ -1,5 +1,5 @@
 
-# 🧮 **Héritage**
+# 🧮 **Constructeurs et destructeurs**
 
 ## 📘 Description
 
